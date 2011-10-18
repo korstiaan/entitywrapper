@@ -1,0 +1,9 @@
+[submodule "entitybase"]
+	path = entitybase
+	url = git://github.com/korstiaan/entitybase.git
+[submodule "nodewrapper"]
+	path = nodewrapper
+	url = git://github.com/korstiaan/nodewrapper.git
+[submodule "userwrapper"]
+	path = userwrapper
+	url = git://github.com/korstiaan/userwrapper.git
