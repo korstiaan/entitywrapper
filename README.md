@@ -17,7 +17,7 @@ Setup / Initial Installation
 
 * git clone this to to site/all/modules
 * Run 'git submodule init' and 'git submodule update'
-* Enable entitybase, nodewrapper and userwrapper on "admin/modules/list" (or add them to cnf/shared/modules.php if you're using Voiture (http://voiture.hoppinger.com))
+* Enable entitybase, nodewrapper and userwrapper on "admin/modules/list" (or add them to cnf/shared/modules.php if you're using Voiture http://voiture.hoppinger.com)
 
 
  
